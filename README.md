@@ -6,7 +6,7 @@
 4) php artisan key:generate
 5) php artisan serve
 
-# ADMIN #
+# Admin #
 admin@admin.com
-# MDP #
+# Mdp #
 123456
